@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this line was edited in local
+=======
+this line was edited in github
+>>>>>>> ca4d65af69f858e8edb9708c2d4e37651d5a78e2
